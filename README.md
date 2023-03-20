@@ -7,7 +7,7 @@ Software Developer
 I am a graduate of the Autonomous University of Aguascalientes, I always learn new things. Specialty in object-oriented programming languages, and frontend development
 
 * 🌍  I'm based in Ca USA & Ags Mx
-* ✉️  You can contact me at [ram.ramses21@icloud.com](mailto:ram.ramses21@icloud.com)
+* ✉️  You can contact me at [ram.ramses21@icloud.com](mailto:remoglez@gmail.com)
 * 🧠  I'm learning React, React native, Java.
 
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +23,7 @@ I am a graduate of the Autonomous University of Aguascalientes, I always learn n
 <h3 align="left">Frameworks:</h3>
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
 <h3 align="left">Cloud platform</h3>
 
