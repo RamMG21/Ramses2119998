@@ -4,7 +4,7 @@ Hi 👋 My name is J. Ramses Moreno Gonzalez
 Software Developer
 ------------------
 
-I am a graduate of the Autonomous University of Aguascalientes, I always learn new things. Specialty in object-oriented programming languages, and frontend development
+I am a graduate of the Autonomous University of Aguascalientes, Always trying to exploit my skills and knowledge. Developer in object-oriented programming languages and frontend development.
 
 * 🌍  I'm based in Ca USA & Ags Mx
 * ✉️  You can contact me at [remoglez@gmail.com](mailto:remoglez@gmail.com)
