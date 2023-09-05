@@ -13,7 +13,7 @@ I am a graduate of the Autonomous University of Aguascalientes, Always trying to
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/ramses moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramses moreno" height="30" width="40" /></a>
+<a href="linkedin.com/in/jr-moreno21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramses moreno" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
