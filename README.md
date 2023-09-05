@@ -6,9 +6,9 @@ Software Developer
 
 I am a graduate of the Autonomous University of Aguascalientes, Always trying to exploit my skills and knowledge. Developer in object-oriented programming languages and frontend development.
 
-* 🌍  I'm based in Ca USA & Ags Mx
-* ✉️  You can contact me at [remoglez@gmail.com](mailto:remoglez@gmail.com)
-* 🧠  Front-End Developer.
+* 🌍  I'm based in MX & USA
+* ✉️  You can contact me at [ram.ramses@outlook.com](mailto:remoglez@gmail.com)
+* 🧠  Software Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
